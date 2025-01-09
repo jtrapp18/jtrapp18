@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jacqueline Trapp
 
-I'm a ** Software Engineer and Actuary ** focused on automating and optimizing processes.
-
-🌐 Visit [My Website](https://jtrapp18.github.io/my-interactive-portfolio)
+I'm a **Software Engineer and Actuary** focused on automating and optimizing processes.
 
 ![Header Image](https://http.cat/images/302.jpg)
+
+## 🌐 Visit [My Website](https://jtrapp18.github.io/my-interactive-portfolio)
 
 ## 🚀 Skills & Technologies:
 - **Languages:** Python, JavaScript, React, SQL, HTML, CSS, VBA
