@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer and Actuary** focused on automating and optimizing processes.
 
-![Header Image](img/coding_w_cats.jpg)
+![Header Image](img/me_coding_w_cats.png)
 
 ## 🌐 Visit [My Website](https://jtrapp18.github.io/my-interactive-portfolio)
 
