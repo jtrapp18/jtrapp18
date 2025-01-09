@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Jacqueline Trapp
-
-I'm a **Software Engineer and Actuary** focused on automating and optimizing processes.
-
-![Header Image](img/me_coding_w_cats.png)
+![Header Image](img/me_coding_w_intro.PNG)
+### I'm a **Software Engineer and Actuary** focused on automating and optimizing processes.
 
 ## 🌐 Visit [My Website](https://jtrapp18.github.io/my-interactive-portfolio)
 
