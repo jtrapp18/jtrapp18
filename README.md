@@ -4,9 +4,9 @@
 ## 🌐 Visit [My Website](https://jtrapp18.github.io/my-interactive-portfolio)
 
 ## 🚀 Skills & Technologies:
-- **Languages:** Python, JavaScript, React, SQL, HTML, CSS, VBA
+- **Languages:** Python, JavaScript, SQL, HTML, CSS, VBA
 - **Tools:** Git, AWS, MySQL
-- **Frameworks:** React
+- **Frameworks:** React, Flask
 
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/jacqueline-trapp)
