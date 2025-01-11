@@ -10,7 +10,6 @@
 
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/jacqueline-trapp)
-- [GitHub](https://github.com/jtrapp18)
 - [Hashnode](https://hashnode.com/672903e59b3903ff579fbdcd/dashboard)
 
 ## 📚 Featured Projects:
