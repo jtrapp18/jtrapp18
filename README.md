@@ -14,7 +14,7 @@
 
 ## 📚 Featured Projects:
 
-### 🐝 [Hive Link](https://github.com/jtrapp18/hive-link)
+### 🐝 [Hive Link](https://hive-link.up.railway.app)
 Platform for beekeepers to track hive inspections, analyze honey production, predict hive health, and connect with other beekeepers through maps, forums, and events.
 - **Technologies**: CSS, React, Python, Flask, SQL
 - [Repo](https://github.com/jtrapp18/hive-link)
@@ -29,7 +29,7 @@ A React-based travel journal for documenting travels and creating itineraries.
 - **Technologies**: CSS, React
 - [Frontend Repo](https://github.com/jtrapp18/wandr-personal-travel-journal) | [Backend Repo](https://github.com/jtrapp18/wandr-personal-travel-journal-be)
 
-### 🍪 [J&N Cookies](https://jtrapp18.github.io/j-n-cookies)
+### 🍪 [J&N Cookies](https://j-n-cookies-production.up.railway.app)
 Mock online cookie store where users can browse cookies, manage carts, and review orders.
 - **Technologies**: CSS, React, Python, Flask, SQL
 - [Repo](https://github.com/jtrapp18/j-n-cookies)
